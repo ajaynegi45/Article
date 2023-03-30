@@ -347,5 +347,3 @@ Aryabhata - A mathematician and astronomer who is credited with several importan
 
 {30}
 Jagadish Chandra Bose - A physicist and biologist who made significant contributions to the fields of radio science and plant science. He is credited with inventing the first wireless detection device and with discovering the response of plants to various stimuli, which paved the way for the development of biophysics.
-
-
